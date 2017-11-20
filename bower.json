@@ -1,0 +1,17 @@
+{
+  "name": "servizi-dog-template",
+  "authors": [
+    "josdem <joseluis.delacruz@gmail.com>"
+  ],
+  "description": "Vetlog template",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/josdem/servizi-dog-template",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
